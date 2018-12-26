@@ -76,7 +76,7 @@ $"sitecore_{databaseName}_index";
         }
 
       }
-      return null;
+      return result;
     }
   }
 }
